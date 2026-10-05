@@ -1,0 +1,8 @@
+{
+  "name": "দৈনিক হিসাব",
+  "description": "সহজ ও নির্ভরযোগ্য দৈনিক ব্যক্তিগত আয়-ব্যয়ের খরচের হিসাব ট্র্যাকার।",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
